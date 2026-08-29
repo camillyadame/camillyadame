@@ -1,51 +1,57 @@
 <div align="center">
 
-# Camilly Adame
+<img src="./assets/profile-header.svg" alt="Camilly Adame — Adame.dev" width="100%" />
 
-### `problemas reais → soluções digitais_`
+<br />
 
-**Desenvolvedora · Acadêmica de Ciência de Dados · Fundadora da Adame.dev**
-
-[Adame.dev](https://adamedev.com.br) · [Instagram](https://instagram.com/adame.dev) · [E-mail](mailto:adame.dev@gmail.com)
+[![Adame.dev](https://img.shields.io/badge/ADAME.DEV-101014?style=for-the-badge&logo=vercel&logoColor=B8FF5A)](https://adamedev.com.br)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-101014?style=for-the-badge&logo=instagram&logoColor=FF4FA3)](https://instagram.com/adame.dev)
+[![E-mail](https://img.shields.io/badge/E--MAIL-101014?style=for-the-badge&logo=gmail&logoColor=F7F3EF)](mailto:adame.dev@gmail.com)
 
 </div>
 
----
-
 ## `sobre_`
 
-Gosto de construir tecnologia que tenha uma função clara no mundo real.
+Construo tecnologia com uma função clara no mundo real.
 
-Meu trabalho parte do problema antes da ferramenta: entender uma rotina, identificar o que pode funcionar melhor e transformar isso em **sites, automações, integrações e sistemas personalizados**.
+Meu trabalho parte do **problema antes da ferramenta**: entender uma rotina, identificar o que pode funcionar melhor e transformar isso em **sites, automações, integrações e sistemas personalizados**.
 
-📍 Presidente Epitácio — SP  
-🌎 Projetos online para todo o Brasil
+`📍 Presidente Epitácio — SP`  
+`🌎 Projetos online para todo o Brasil`
 
-## `em destaque_`
+---
 
-### [Adame.dev](https://github.com/camillyadame/adame-dev)
-Meu estúdio de tecnologia para pequenos negócios e profissionais. A proposta é transformar problemas reais de rotina, operação e presença digital em soluções que façam sentido para cada negócio.
+## `projetos em destaque_`
 
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Vercel`
+| Projeto | O que resolve | Stack / status |
+| --- | --- | --- |
+| **[Adame.dev](https://github.com/camillyadame/adame-dev)** | Estúdio de tecnologia para pequenos negócios e profissionais. Presença digital, automações e sistemas pensados a partir de problemas reais. | `Next.js` `TypeScript` `React` `Tailwind CSS` `Vercel` |
+| **[Studio CM](https://github.com/camillyadame/StudioCM)** | Site para estúdio de beleza com fluxo de agendamento e integração com Google Calendar. **[ver projeto ↗](https://studio-cm.vercel.app/)** | `React` `TypeScript` `Node.js` `Google Calendar API` |
+| **ADA Repair** | Sistema interno para assistência técnica: clientes, aparelhos, ordens de serviço, estoque, fornecedores e operação administrativa. | `Next.js` `Prisma` `PostgreSQL` `Cloudinary` · `case privado` |
+| **SEIVA** | Produto digital autoral de estudos com IA + gamificação, criado para transformar foco e constância em uma experiência de crescimento. | `em desenvolvimento_` |
 
-### [Studio CM](https://github.com/camillyadame/StudioCM)
-Site para estúdio de beleza com fluxo de agendamento e integração com Google Calendar.
+---
 
-[ver projeto](https://studio-cm.vercel.app/)
+## `stack_`
 
-### `ADA Repair`
-Sistema interno desenvolvido para gestão de assistência técnica, com clientes, aparelhos, ordens de serviço, estoque e outros fluxos operacionais.
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-101014?style=flat-square&logo=typescript&logoColor=FF4FA3)
+![React](https://img.shields.io/badge/React-101014?style=flat-square&logo=react&logoColor=B8FF5A)
+![Next.js](https://img.shields.io/badge/Next.js-101014?style=flat-square&logo=nextdotjs&logoColor=F7F3EF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101014?style=flat-square&logo=tailwindcss&logoColor=FF4FA3)
 
-*Projeto privado — apresentado publicamente apenas como case na Adame.dev.*
+**Backend & dados**  
+![Node.js](https://img.shields.io/badge/Node.js-101014?style=flat-square&logo=nodedotjs&logoColor=B8FF5A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101014?style=flat-square&logo=postgresql&logoColor=FF4FA3)
+![Prisma](https://img.shields.io/badge/Prisma-101014?style=flat-square&logo=prisma&logoColor=F7F3EF)
+![Python](https://img.shields.io/badge/Python-101014?style=flat-square&logo=python&logoColor=B8FF5A)
 
-### `SEIVA — em desenvolvimento_`
-Produto digital autoral de estudos com IA + gamificação, criado para transformar organização, foco e constância em uma experiência de crescimento.
+**Ambiente & ferramentas**  
+![Git](https://img.shields.io/badge/Git-101014?style=flat-square&logo=git&logoColor=FF4FA3)
+![Linux](https://img.shields.io/badge/Linux-101014?style=flat-square&logo=linux&logoColor=B8FF5A)
+![Vercel](https://img.shields.io/badge/Vercel-101014?style=flat-square&logo=vercel&logoColor=F7F3EF)
 
-## `tecnologias_`
-
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Prisma` · `Python` · `Git` · `Linux`
-
-Também estudo **Ciência de Dados** e exploro APIs, integrações, automação e desenvolvimento de produtos digitais.
+---
 
 ## `como eu penso tecnologia_`
 
@@ -57,14 +63,11 @@ entender(problema)
   → colocar_para_funcionar()
 ```
 
-> Ferramentas constroem. O valor está em entender o problema certo e fazer a solução funcionar de verdade.
-
----
+> **Ferramentas constroem. O valor está em entender o problema certo e fazer a solução funcionar de verdade.**
 
 <div align="center">
 
-### `adame.dev_`
-
+`a._`  
 **Transformando problemas reais em soluções digitais.**
 
 </div>
