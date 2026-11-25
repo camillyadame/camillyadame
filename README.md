@@ -19,6 +19,7 @@ Gosto de entender como um processo funciona e transformar isso em regras de neg�
 
 - 🔭 **Procurando:** vaga como desenvolvedora
 - 🌎 **Formato:** remoto, híbrido ou mudança de cidade (residência disponível em São José do Rio Preto — SP)
+- 🗣️ **Idiomas:** português nativo, inglês básico (em estudo)
 - 📍 Presidente Epitácio — SP
 
 ---
