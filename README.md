@@ -1,73 +1,91 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Camilly Adame — Adame.dev" width="100%" />
+<img src="./assets/profile-header.svg" alt="Camilly Adame, desenvolvedora full-stack e estudante de Ciência de Dados, aberta a vagas" width="100%" />
 
 <br />
 
-[![Adame.dev](https://img.shields.io/badge/ADAME.DEV-101014?style=for-the-badge&logo=vercel&logoColor=B8FF5A)](https://adamedev.com.br)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-101014?style=for-the-badge&logo=instagram&logoColor=FF4FA3)](https://instagram.com/adame.dev)
-[![E-mail](https://img.shields.io/badge/E--MAIL-101014?style=for-the-badge&logo=gmail&logoColor=F7F3EF)](mailto:adame.dev@gmail.com)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-07061a?style=for-the-badge&logo=vercel&logoColor=B8FF5A)](https://adamedev.com.br)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-07061a?style=for-the-badge&logo=linkedin&logoColor=B7A6FF)](https://www.linkedin.com/in/camilly-adame)
+[![Currículo](https://img.shields.io/badge/CURRÍCULO-07061a?style=for-the-badge)](https://adamedev.com.br/curriculo)
+[![E-mail](https://img.shields.io/badge/E--MAIL-07061a?style=for-the-badge&logo=gmail&logoColor=F6F4FA)](mailto:cadame.dev@gmail.com)
 
 </div>
 
 ## `sobre_`
 
-Construo tecnologia com uma função clara no mundo real.
+Sou desenvolvedora full-stack e estudante de **Ciência de Dados na Univesp**. Construo sistemas web de ponta a ponta, do modelo de dados à interface, e hoje tenho **dois sistemas em uso por negócios reais**.
 
-Meu trabalho parte do **problema antes da ferramenta**: entender uma rotina, identificar o que pode funcionar melhor e transformar isso em **sites, automações, integrações e sistemas personalizados**.
+Gosto de entender como um processo funciona e transformar isso em regras de negócio no servidor, banco relacional bem modelado e uma interface que a equipe consegue usar no dia a dia. Agora estou aprofundando dados e machine learning.
 
-`📍 Presidente Epitácio — SP`  
-`🌎 Projetos online para todo o Brasil`
+- 🔭 **Procurando:** vaga como desenvolvedora
+- 🌎 **Formato:** remoto, híbrido ou mudança de cidade (residência disponível em São José do Rio Preto — SP)
+- 📍 Presidente Epitácio — SP
 
 ---
 
-## `projetos em destaque_`
+## `projetos_`
 
-| Projeto | O que resolve | Stack / status |
-| --- | --- | --- |
-| **[Adame.dev](https://github.com/camillyadame/adame-dev)** | Estúdio de tecnologia para pequenos negócios e profissionais. Presença digital, automações e sistemas pensados a partir de problemas reais. | `Next.js` `TypeScript` `React` `Tailwind CSS` `Vercel` |
-| **[Studio CM](https://github.com/camillyadame/StudioCM)** | Site para estúdio de beleza com fluxo de agendamento e integração com Google Calendar. **[ver projeto ↗](https://studio-cm.vercel.app/)** | `React` `TypeScript` `Node.js` `Google Calendar API` |
-| **ADA Repair** | Sistema interno para assistência técnica: clientes, aparelhos, ordens de serviço, estoque, fornecedores e operação administrativa. | `Next.js` `Prisma` `PostgreSQL` `Cloudinary` · `case privado` |
-| **SEIVA** | Produto digital autoral de estudos com IA + gamificação, criado para transformar foco e constância em uma experiência de crescimento. | `em desenvolvimento_` |
+### [ADA Repair](https://adamedev.com.br/projetos/ada-repair) · sistema de gestão · `em uso`
+
+Sistema interno de uma assistência técnica de celulares. Substituiu os registros em papel da loja por um sistema central com acesso remoto.
+
+- Banco relacional com 12 entidades em **Prisma + PostgreSQL**
+- Ordem de serviço com 8 estados, checklist de entrada, fotos e orçamento
+- Perfis de acesso (admin e técnico) verificados no servidor com **NextAuth**
+- QR code por ordem e página pública para o cliente acompanhar o conserto
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Cloudinary` · código privado (o sistema está em uso e o acesso é restrito por segurança) · [estudo de caso ↗](https://adamedev.com.br/projetos/ada-repair)
+
+### [Studio CM](https://github.com/camillyadame/StudioCM) · agendamento online · `no ar`
+
+Site de um estúdio de beleza com agendamento integrado ao **Google Calendar** das duas profissionais.
+
+- API em **Node.js/Express** que calcula horários livres a partir das agendas reais
+- Pré-reservas que expiram sozinhas se o sinal não for confirmado
+- Rate limiting, campo-isca e validação contra abuso, com testes automatizados
+
+`React` `TypeScript` `Vite` `Node.js` `Express` `Google Calendar API` · [ver no ar ↗](https://studio-cm.vercel.app/) · [estudo de caso ↗](https://adamedev.com.br/projetos/studio-cm)
+
+### [adame.dev](https://github.com/camillyadame/adame-dev) · portfólio
+
+Meu portfólio em **Next.js + Tailwind CSS**, com hero ASCII gerado em canvas, animações ligadas à rolagem e currículo gerado a partir dos mesmos dados.
+
+### em construção
+
+- **SEIVA** · plataforma de estudos com IA e gamificação
+- **FoodWise AI** · análise e previsão de demanda com Python, Pandas e scikit-learn
 
 ---
 
 ## `stack_`
 
 **Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-101014?style=flat-square&logo=typescript&logoColor=FF4FA3)
-![React](https://img.shields.io/badge/React-101014?style=flat-square&logo=react&logoColor=B8FF5A)
-![Next.js](https://img.shields.io/badge/Next.js-101014?style=flat-square&logo=nextdotjs&logoColor=F7F3EF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101014?style=flat-square&logo=tailwindcss&logoColor=FF4FA3)
+![TypeScript](https://img.shields.io/badge/TypeScript-07061a?style=flat-square&logo=typescript&logoColor=B7A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-07061a?style=flat-square&logo=javascript&logoColor=B8FF5A)
+![React](https://img.shields.io/badge/React-07061a?style=flat-square&logo=react&logoColor=B7A6FF)
+![Next.js](https://img.shields.io/badge/Next.js-07061a?style=flat-square&logo=nextdotjs&logoColor=F6F4FA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-07061a?style=flat-square&logo=tailwindcss&logoColor=FF4FA3)
 
 **Backend & dados**  
-![Node.js](https://img.shields.io/badge/Node.js-101014?style=flat-square&logo=nodedotjs&logoColor=B8FF5A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101014?style=flat-square&logo=postgresql&logoColor=FF4FA3)
-![Prisma](https://img.shields.io/badge/Prisma-101014?style=flat-square&logo=prisma&logoColor=F7F3EF)
-![Python](https://img.shields.io/badge/Python-101014?style=flat-square&logo=python&logoColor=B8FF5A)
+![Node.js](https://img.shields.io/badge/Node.js-07061a?style=flat-square&logo=nodedotjs&logoColor=B8FF5A)
+![Express](https://img.shields.io/badge/Express-07061a?style=flat-square&logo=express&logoColor=F6F4FA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07061a?style=flat-square&logo=postgresql&logoColor=B7A6FF)
+![Prisma](https://img.shields.io/badge/Prisma-07061a?style=flat-square&logo=prisma&logoColor=F6F4FA)
 
-**Ambiente & ferramentas**  
-![Git](https://img.shields.io/badge/Git-101014?style=flat-square&logo=git&logoColor=FF4FA3)
-![Linux](https://img.shields.io/badge/Linux-101014?style=flat-square&logo=linux&logoColor=B8FF5A)
-![Vercel](https://img.shields.io/badge/Vercel-101014?style=flat-square&logo=vercel&logoColor=F7F3EF)
+**Estudando**  
+![Python](https://img.shields.io/badge/Python-07061a?style=flat-square&logo=python&logoColor=B8FF5A)
+![Pandas](https://img.shields.io/badge/Pandas-07061a?style=flat-square&logo=pandas&logoColor=B7A6FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-07061a?style=flat-square&logo=scikitlearn&logoColor=FF4FA3)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-07061a?style=flat-square&logo=git&logoColor=FF4FA3)
+![Vercel](https://img.shields.io/badge/Vercel-07061a?style=flat-square&logo=vercel&logoColor=F6F4FA)
+![Linux](https://img.shields.io/badge/Linux-07061a?style=flat-square&logo=linux&logoColor=B8FF5A)
 
 ---
 
-## `como eu penso tecnologia_`
-
-```text
-entender(problema)
-  → planejar(solução)
-  → construir(tecnologia)
-  → testar(resultado)
-  → colocar_para_funcionar()
-```
-
-> **Ferramentas constroem. O valor está em entender o problema certo e fazer a solução funcionar de verdade.**
-
 <div align="center">
 
-`a._`  
-**Transformando problemas reais em soluções digitais.**
+`a._` · [adamedev.com.br](https://adamedev.com.br) · [linkedin](https://www.linkedin.com/in/camilly-adame) · cadame.dev@gmail.com
 
 </div>
