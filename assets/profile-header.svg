@@ -1,44 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Camilly Adame — Adame.dev</title>
-  <desc id="desc">Developer profile header in Adame.dev visual identity</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Camilly Adame — desenvolvedora full-stack</title>
+  <desc id="desc">Cabeçalho do perfil: Camilly Adame, desenvolvedora full-stack e estudante de Ciência de Dados, aberta a vagas.</desc>
   <defs>
-    <linearGradient id="pinkGlow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FF4FA3" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1233"/>
+      <stop offset="1" stop-color="#07061a"/>
     </linearGradient>
-    <linearGradient id="greenGlow" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#B8FF5A" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#B8FF5A" stop-opacity="0"/>
-    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#b7a6ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#b7a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ascii" width="24" height="24" patternUnits="userSpaceOnUse">
+      <text x="6" y="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#cdd5e3" fill-opacity="0.07">+</text>
+    </pattern>
   </defs>
-  <rect width="1200" height="330" rx="28" fill="#101014"/>
-  <circle cx="100" cy="62" r="180" fill="url(#pinkGlow)"/>
-  <circle cx="1100" cy="285" r="210" fill="url(#greenGlow)"/>
-  <rect x="28" y="28" width="1144" height="274" rx="22" fill="none" stroke="#2A2A32"/>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#ascii)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#cad5e2" stroke-opacity="0.14"/>
 
-  <text x="74" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="26" font-weight="700" fill="#F7F3EF">a</text>
-  <text x="93" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="26" font-weight="700" fill="#FF4FA3">.</text>
-  <text x="111" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="26" font-weight="700" fill="#B8FF5A">_</text>
-
-  <text x="74" y="154" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" fill="#F7F3EF">Camilly Adame</text>
-  <text x="74" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24" fill="#D6D2CE">Desenvolvedora · Ciência de Dados · Fundadora da Adame.dev</text>
-
-  <rect x="74" y="231" width="780" height="48" rx="12" fill="#16161D" stroke="#34343D"/>
-  <text x="96" y="263" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23" font-weight="700" fill="#FF4FA3">problemas reais</text>
-  <text x="319" y="263" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23" font-weight="700" fill="#F7F3EF"> → </text>
-  <text x="367" y="263" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23" font-weight="700" fill="#B8FF5A">soluções digitais_</text>
-
-  <g transform="translate(955 80)">
-    <rect width="158" height="142" rx="22" fill="#16161D" stroke="#34343D"/>
-    <path d="M79 28v23M67 39h24" stroke="#B8FF5A" stroke-width="5" stroke-linecap="round"/>
-    <path d="M58 59c-11-21-29-24-42-22 4 16 15 29 36 31" fill="none" stroke="#B8FF5A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M99 59c11-21 29-24 42-22-4 16-15 29-36 31" fill="none" stroke="#B8FF5A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M46 83h66l-7 36H53z" fill="none" stroke="#FF4FA3" stroke-width="5" stroke-linejoin="round"/>
-    <path d="M39 78h80" stroke="#FF4FA3" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="78" font-size="20" fill="#8f98ad"><tspan fill="#b8ff5a">~</tspan>/camilly-adame</text>
+    <text x="64" y="146" font-size="54" fill="#f6f4fa">Camilly Adame</text>
+    <text x="64" y="192" font-size="22" fill="#cdd5e3">Desenvolvedora full-stack · Ciência de Dados (Univesp)</text>
+    <circle cx="71" cy="240" r="6" fill="#b8ff5a"/>
+    <text x="90" y="247" font-size="19" fill="#8f98ad">aberta a vagas · remoto, híbrido ou mudança de cidade</text>
+    <text x="1030" y="146" font-size="54" fill="#f6f4fa">a<tspan fill="#ff4fa3">.</tspan><tspan fill="#b8ff5a">_</tspan></text>
   </g>
-
-  <circle cx="930" cy="53" r="4" fill="#FF4FA3"/>
-  <circle cx="1139" cy="239" r="4" fill="#B8FF5A"/>
-  <path d="M900 268h132" stroke="#FF4FA3" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
-  <path d="M1042 268h71" stroke="#B8FF5A" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
 </svg>
